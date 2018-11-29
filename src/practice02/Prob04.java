@@ -1,6 +1,6 @@
 package practice02;
 
-public class Prob04 {
+public class Prob04 {  // 다른 분의 소스 코드 참고...다시 작성해봐야 함.
 
 	public static void main(String[] args) {
 		char[] arrayReverse1 = reverse("Hello World");
