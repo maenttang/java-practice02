@@ -6,7 +6,7 @@ public class Prob03 {
 		char c[] = { 'T', 'h', 'i', 's', ' ', 'i', 's', ' ', 'a', ' ', 'p', 'e', 'n', 'c', 'i', 'l', '.' };
 		printCharArray(c); // 원래 배열 원소 출력
 		replaceSpace(c); // 공백 문자 바꾸기
-		//printCharArray(c); // 수정된 배열 원소 출력
+		//printCharArray(c); // 수정된 배열 원소 출력//
 		
 	}
 
