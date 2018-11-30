@@ -69,7 +69,7 @@ public class Prob01 {
 //	int val = 0;
 //	int a = inputNum / n;
 //	int aa = val * inputNum + number.length();
-//	
+//	//
 //
 //	System.out.println(""+a+"개");
 //	System.out.println(""+aa+"개");
