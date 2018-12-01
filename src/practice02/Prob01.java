@@ -14,7 +14,7 @@ public class Prob01 {
 		int unit = 50000;
 		int mok = 0;
 		int na = 0;
-		// boolean a = true;
+		// boolean a = true;//
 
 		while (true) {
 			
